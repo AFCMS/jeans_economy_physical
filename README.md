@@ -1,7 +1,7 @@
 # Minetest Jeans Economy Phisical
 "Physical" (item) coins for jeans_economy for Minetest
 
-Fork
+Fork of https://gitlab.com/admicos/minetest-phycurr
 
 ## Mod License
 The mod is licensed under the MIT License.  
